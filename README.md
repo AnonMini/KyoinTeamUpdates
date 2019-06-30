@@ -14,6 +14,11 @@ Bienvenido a las notas de actualizacion de la web del equipo KyoinTeam
 #### Added Title
 #### Hosting on
 
+## CAMBIOS.
+
+
+
+
 ### Kyoin Team Bot 
 [![Version](https://img.shields.io/badge/KyoinTeamBot-1.0.1-Purple.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Status-Online-green.svg?maxAge=259200)]()
@@ -31,6 +36,9 @@ Bienvenido a las notas de actualizacion de la web del equipo KyoinTeam
 #### Where are the bot: Ahora te aparece en cuantos servidores esta alojado el bot.
 ## Errores que encontreis en el bot por favor decirlo
 
+### MicroParche.
+
+#### Welcome Bug: El bot no saludaba cuando un nuevo usuario accedia la servidor.
 DEVELOPED BY ONNBA PRODUCTIONS
 
 
