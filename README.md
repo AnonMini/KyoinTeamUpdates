@@ -39,6 +39,24 @@ Bienvenido a las notas de actualizacion de la web del equipo KyoinTeam
 ### MicroParche.
 
 #### Welcome Bug: El bot no saludaba cuando un nuevo usuario accedia la servidor.
+
+### Micro Parche 2º Parte.
+
+#### Cambiado de 
+<code>if (msg.content === "command")</code>
+#### a
+<code>if (command === "command")</code>
+
+#### Este codigo "command" simplifica lo de "msg.content" y aparte simplifica el codigo de el prefix de:
+
+<code>  if(message.content.startsWith(prefix + "ping") </code>
+
+#### a
+
+<code>if (command === "command") </code>
+
+### Estare de vacaciones hasta el 19/07/19.
+
 DEVELOPED BY ONNBA PRODUCTIONS
 
 
